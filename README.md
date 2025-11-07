@@ -1,2 +1,2 @@
-# AnimaThankYouPage
-Thank-you page for Anima test task
+# PersonalWebsite
+My personal website
