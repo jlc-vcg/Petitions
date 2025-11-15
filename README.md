@@ -1,2 +1,2 @@
 # Effective Petitions
-A basic website for the 'Effecive Peitions' project.
+A basic website for the 'Effective Petitions' project.
